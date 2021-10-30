@@ -1,0 +1,12 @@
+
+const produto = [
+    {idProduto: 1,nomeProduto:'SHOULDER BAG SCREW BLACK', valorProduto: 199.99, tamanhoProduto: ['P','M','G'], urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/185083/BAW_-82.jpg?v=637680065983230000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/185082/BAW_-3806.jpg?v=637680065850100000'},
+    {idProduto: 2,nomeProduto:'BOMBER JACKET REAL THING', valorProduto: 119.90, tamanhoProduto: ['P','M','G'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/184359/BAW_-1914.jpg?v=637659267477100000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/184360/BAW_-1519.jpg?v=637659267584000000' } ,
+    {idProduto: 3,nomeProduto:'SWEATSHIRT LOGO PURPLE', valorProduto: 119.90, tamanhoProduto: ['P','M','G'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/181949/1-BAW_3645.jpg?v=637578240021930000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/181950/2-BAW_2451.jpg?v=637578240107570000'},
+    {idProduto: 4,nomeProduto:'MOLETOM DISCOVERY', valorProduto: 299.90, tamanhoProduto: ['P','M','G'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/180352/BAW_-3675.jpg?v=637540889143200000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/180353/BAW_-649.jpg?v=637540889297800000'},
+    {idProduto: 5,nomeProduto:'Camiseta College Tiger', valorProduto: 129.90, tamanhoProduto: ['P','M','G'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/176378/BAW_0833.jpg?v=637403548785330000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/176379/BAW_0810.jpg?v=637403548910800000'},
+    {idProduto: 6,nomeProduto:'Camiseta College Tiger Black', valorProduto: 129.90, tamanhoProduto: ['P','M','G', 'GG'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/176259/BAW_1424.jpg?v=637400970013100000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/176260/BAW_0803.jpg?v=637400970154770000'},
+    {idProduto: 7,nomeProduto:'Camiseta gumball black', valorProduto: 119.90, tamanhoProduto: ['P','M','G', 'GG'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/184917/BAW_-3594.jpg?v=637679991610270000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/184918/BAW_-3143.jpg?v=637679991717770000'},
+    {idProduto: 8,nomeProduto:'Jaqueta puffer essential beige', valorProduto: 599.90, tamanhoProduto: ['P','M','G', 'GG'],urlImg1:'https://bawclothing.vteximg.com.br/arquivos/ids/183434/1-021_0706-BAW1657.jpg?v=637623892577770000',urlImg2:'https://bawclothing.vteximg.com.br/arquivos/ids/183435/2-021_0706-BAW1467.jpg?v=637623892702300000'}
+]
+export default produto
